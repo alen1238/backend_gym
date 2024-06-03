@@ -1,0 +1,15 @@
+C:\Users\USUARIO\source\repos\pruebasLogicaPropo\pruebasLogicaPropo\bin\Debug\net6.0\pruebasLogicaPropo.exe
+C:\Users\USUARIO\source\repos\pruebasLogicaPropo\pruebasLogicaPropo\bin\Debug\net6.0\pruebasLogicaPropo.deps.json
+C:\Users\USUARIO\source\repos\pruebasLogicaPropo\pruebasLogicaPropo\bin\Debug\net6.0\pruebasLogicaPropo.runtimeconfig.json
+C:\Users\USUARIO\source\repos\pruebasLogicaPropo\pruebasLogicaPropo\bin\Debug\net6.0\pruebasLogicaPropo.dll
+C:\Users\USUARIO\source\repos\pruebasLogicaPropo\pruebasLogicaPropo\bin\Debug\net6.0\pruebasLogicaPropo.pdb
+C:\Users\USUARIO\source\repos\pruebasLogicaPropo\pruebasLogicaPropo\obj\Debug\net6.0\pruebasLogicaPropo.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\pruebasLogicaPropo\pruebasLogicaPropo\obj\Debug\net6.0\pruebasLogicaPropo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\pruebasLogicaPropo\pruebasLogicaPropo\obj\Debug\net6.0\pruebasLogicaPropo.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\pruebasLogicaPropo\pruebasLogicaPropo\obj\Debug\net6.0\pruebasLogicaPropo.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\pruebasLogicaPropo\pruebasLogicaPropo\obj\Debug\net6.0\pruebasLogicaPropo.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\pruebasLogicaPropo\pruebasLogicaPropo\obj\Debug\net6.0\pruebasLogicaPropo.dll
+C:\Users\USUARIO\source\repos\pruebasLogicaPropo\pruebasLogicaPropo\obj\Debug\net6.0\refint\pruebasLogicaPropo.dll
+C:\Users\USUARIO\source\repos\pruebasLogicaPropo\pruebasLogicaPropo\obj\Debug\net6.0\pruebasLogicaPropo.pdb
+C:\Users\USUARIO\source\repos\pruebasLogicaPropo\pruebasLogicaPropo\obj\Debug\net6.0\pruebasLogicaPropo.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\pruebasLogicaPropo\pruebasLogicaPropo\obj\Debug\net6.0\ref\pruebasLogicaPropo.dll
